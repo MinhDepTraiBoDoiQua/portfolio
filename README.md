@@ -2,14 +2,18 @@
 
 ## Introduction
 
-Welcome to my portfolio website! This site is designed to showcase my skills, projects, certificates, honors and  awards.
+Welcome to my portfolio website! This site is designed to showcase my skills, projects, certificates, honors and awards.
+
+## 🔗 Link
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://minhdeptraibodoiqua.github.io/portfolio/)
 
 ## Table of Contents
 
 1. About me
 2. Skills
 3. Projects
-4. Certificates
+4. Certificatess
 5. Honors & Awards
 6. Contact
 
